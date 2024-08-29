@@ -1,4 +1,4 @@
-# Talawa API
+# Talawa API change
 
 [💬 Join the community on Slack](https://github.com/PalisadoesFoundation/)
 
